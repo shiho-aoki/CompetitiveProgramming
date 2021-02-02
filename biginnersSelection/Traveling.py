@@ -28,7 +28,7 @@ for x, y ,t in zip(X,Y,T):
                 break
         else:
             if check %2 !=0:
-                t_base = t
+                t_base =t
                 x_base =x
                 y_base =y
             else:
